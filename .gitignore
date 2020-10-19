@@ -1,2 +1,4 @@
 data
 .virtual_documents/*
+.ipynb_checkpoints/*
+.vscode/*
